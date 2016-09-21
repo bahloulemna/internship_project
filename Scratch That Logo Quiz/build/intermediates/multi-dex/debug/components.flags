@@ -1,0 +1,48 @@
+-injars '/home/emna/AndroidStudioProjects/Android Code/Scratch That Logo Quiz/build/intermediates/transforms/jarMerging/debug/jars/1/1f/combined.jar'
+-outjars '/home/emna/AndroidStudioProjects/Android Code/Scratch That Logo Quiz/build/intermediates/multi-dex/debug/componentClasses.jar'
+
+-libraryjars /home/emna/Android/Sdk/build-tools/20.0.0/multidex/shrinkedAndroid.jar
+
+-forceprocessing
+-dontoptimize
+-dontobfuscate
+-dontusemixedcaseclassnames
+-dontpreverify
+-dontnote **,com.android.tools.fd.**,android.support.multidex.MultiDexExtractor
+-dontwarn **
+-printconfiguration '/home/emna/AndroidStudioProjects/Android Code/Scratch That Logo Quiz/build/intermediates/multi-dex/debug/components.flags'
+
+
+-keep class com.gkcrop.scratchthatlogoquiz.MainActivity {
+    <init>();
+}
+
+-keep class com.gkcrop.scratchthatlogoquiz.CategoryActivity {
+    <init>();
+}
+
+-keep class com.gkcrop.scratchthatlogoquiz.GameActivity {
+    <init>();
+}
+
+-keep class com.gkcrop.scratchthatlogoquiz.HowTo {
+    <init>();
+}
+
+-keep class com.google.android.gms.ads.AdActivity {
+    <init>();
+}
+
+-keep public class * extends android.app.backup.BackupAgent {
+    <init>();
+}
+
+-keep public class * extends java.lang.annotation.Annotation {
+    <fields>;
+    <methods>;
+}
+
+-keep class com.android.tools.fd.** {
+    <fields>;
+    <methods>;
+}

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/emna/AndroidStudioProjects/Android Code/google-play-services_lib/build/intermediates/res/merged/androidTest/debug/color/common_signin_btn_text_light.xml",
+        "source": "/home/emna/AndroidStudioProjects/Android Code/google-play-services_lib/build/intermediates/bundles/debug/res/color/common_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/home/emna/AndroidStudioProjects/Android Code/google-play-services_lib/build/intermediates/res/merged/androidTest/debug/color/common_signin_btn_text_dark.xml",
+        "source": "/home/emna/AndroidStudioProjects/Android Code/google-play-services_lib/build/intermediates/bundles/debug/res/color/common_signin_btn_text_dark.xml"
+    }
+]

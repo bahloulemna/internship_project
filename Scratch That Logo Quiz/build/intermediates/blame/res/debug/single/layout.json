@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/home/emna/AndroidStudioProjects/Android Code/Scratch That Logo Quiz/build/intermediates/res/merged/debug/layout/popup_info_1btn.xml",
+        "source": "/home/emna/AndroidStudioProjects/Android Code/Scratch That Logo Quiz/res/layout/popup_info_1btn.xml"
+    },
+    {
+        "merged": "/home/emna/AndroidStudioProjects/Android Code/Scratch That Logo Quiz/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/home/emna/AndroidStudioProjects/Android Code/Scratch That Logo Quiz/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/emna/AndroidStudioProjects/Android Code/Scratch That Logo Quiz/build/intermediates/res/merged/debug/layout/activity_howto.xml",
+        "source": "/home/emna/AndroidStudioProjects/Android Code/Scratch That Logo Quiz/res/layout/activity_howto.xml"
+    },
+    {
+        "merged": "/home/emna/AndroidStudioProjects/Android Code/Scratch That Logo Quiz/build/intermediates/res/merged/debug/layout/activity_category.xml",
+        "source": "/home/emna/AndroidStudioProjects/Android Code/Scratch That Logo Quiz/res/layout/activity_category.xml"
+    },
+    {
+        "merged": "/home/emna/AndroidStudioProjects/Android Code/Scratch That Logo Quiz/build/intermediates/res/merged/debug/layout/activity_game.xml",
+        "source": "/home/emna/AndroidStudioProjects/Android Code/Scratch That Logo Quiz/res/layout/activity_game.xml"
+    },
+    {
+        "merged": "/home/emna/AndroidStudioProjects/Android Code/Scratch That Logo Quiz/build/intermediates/res/merged/debug/layout/popup.xml",
+        "source": "/home/emna/AndroidStudioProjects/Android Code/Scratch That Logo Quiz/res/layout/popup.xml"
+    }
+]

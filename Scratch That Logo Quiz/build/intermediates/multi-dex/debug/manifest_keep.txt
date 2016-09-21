@@ -1,0 +1,15 @@
+-keep class com.gkcrop.scratchthatlogoquiz.MainActivity { <init>(); }
+-keep class com.gkcrop.scratchthatlogoquiz.CategoryActivity { <init>(); }
+-keep class com.gkcrop.scratchthatlogoquiz.GameActivity { <init>(); }
+-keep class com.gkcrop.scratchthatlogoquiz.HowTo { <init>(); }
+-keep class com.google.android.gms.ads.AdActivity { <init>(); }
+-keep public class * extends android.app.backup.BackupAgent {
+    <init>();
+}
+-keep public class * extends java.lang.annotation.Annotation {
+    *;
+}
+-keep class com.android.tools.fd.** {
+    *;
+}
+-dontnote com.android.tools.fd.**,android.support.multidex.MultiDexExtractor

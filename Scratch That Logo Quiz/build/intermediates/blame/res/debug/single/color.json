@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/emna/AndroidStudioProjects/Android Code/Scratch That Logo Quiz/build/intermediates/res/merged/debug/color/common_signin_btn_text_light.xml",
+        "source": "/home/emna/AndroidStudioProjects/Android Code/Scratch That Logo Quiz/build/intermediates/exploded-aar/Android Code/google-play-services_lib/unspecified/res/color/common_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/home/emna/AndroidStudioProjects/Android Code/Scratch That Logo Quiz/build/intermediates/res/merged/debug/color/common_signin_btn_text_dark.xml",
+        "source": "/home/emna/AndroidStudioProjects/Android Code/Scratch That Logo Quiz/build/intermediates/exploded-aar/Android Code/google-play-services_lib/unspecified/res/color/common_signin_btn_text_dark.xml"
+    }
+]

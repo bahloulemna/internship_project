@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main$Generated" generated="true"><source path="/home/emna/AndroidStudioProjects/Android Code/WScratchViewLibrary/res"/><source path="/home/emna/AndroidStudioProjects/Android Code/WScratchViewLibrary/build/generated/res/rs/release"/><source path="/home/emna/AndroidStudioProjects/Android Code/WScratchViewLibrary/build/generated/res/resValues/release"/></dataSet><dataSet config="release$Generated" generated="true"><source path="/home/emna/AndroidStudioProjects/Android Code/WScratchViewLibrary/build-types/release/res"/></dataSet><dataSet config="main" generated-set="main$Generated"><source path="/home/emna/AndroidStudioProjects/Android Code/WScratchViewLibrary/res"><file name="ic_launcher" path="/home/emna/AndroidStudioProjects/Android Code/WScratchViewLibrary/res/drawable-mdpi/ic_launcher.png" qualifiers="mdpi-v4" type="drawable"/><file path="/home/emna/AndroidStudioProjects/Android Code/WScratchViewLibrary/res/values/attrs.xml" qualifiers=""><declare-styleable name="WScratchView">
+        <attr format="color" name="overlayColor"/>
+        <attr format="dimension" name="revealSize"/>
+        <attr format="boolean" name="antiAlias"/>
+        <attr format="boolean" name="scratchable"/>
+        <attr format="reference" name="scratchDrawable"/>
+    </declare-styleable></file><file path="/home/emna/AndroidStudioProjects/Android Code/WScratchViewLibrary/res/values/styles.xml" qualifiers=""><style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style><style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style></file><file path="/home/emna/AndroidStudioProjects/Android Code/WScratchViewLibrary/res/values/strings.xml" qualifiers=""><string name="app_name">WScratchView</string></file><file name="ic_launcher" path="/home/emna/AndroidStudioProjects/Android Code/WScratchViewLibrary/res/drawable-xhdpi/ic_launcher.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ic_launcher" path="/home/emna/AndroidStudioProjects/Android Code/WScratchViewLibrary/res/drawable-hdpi/ic_launcher.png" qualifiers="hdpi-v4" type="drawable"/></source><source path="/home/emna/AndroidStudioProjects/Android Code/WScratchViewLibrary/build/generated/res/rs/release"/><source path="/home/emna/AndroidStudioProjects/Android Code/WScratchViewLibrary/build/generated/res/resValues/release"/></dataSet><dataSet config="release" generated-set="release$Generated"><source path="/home/emna/AndroidStudioProjects/Android Code/WScratchViewLibrary/build-types/release/res"/></dataSet><mergedItems><configuration qualifiers=""><declare-styleable name="WScratchView"><attr format="color" name="overlayColor"/><attr format="dimension" name="revealSize"/><attr format="boolean" name="antiAlias"/><attr format="boolean" name="scratchable"/><attr format="reference" name="scratchDrawable"/></declare-styleable></configuration></mergedItems></merger>

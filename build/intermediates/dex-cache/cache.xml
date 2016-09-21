@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/emna/AndroidStudioProjects/Android Code/Scratch That Logo Quiz/build/intermediates/exploded-aar/Android Code/WScratchViewLibrary/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="eb0dbe30b6c481b47c49ae2d0eeacf0aa5d433d4">
+        <dex dex="/home/emna/AndroidStudioProjects/Android Code/Scratch That Logo Quiz/build/intermediates/pre-dexed/debug/Android Code-WScratchViewLibrary-unspecified_9671cd853a852d4de304ce06bc30e8129c79d3d3.jar" />
+    </item>
+    <item
+        jar="/home/emna/AndroidStudioProjects/Android Code/Scratch That Logo Quiz/build/intermediates/exploded-aar/Android Code/WScratchViewLibrary/unspecified/jars/libs/android-support-v4.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="44b2949eaaf5f2ba05ed2a5cd839ef26e11fb808">
+        <dex dex="/home/emna/AndroidStudioProjects/Android Code/Scratch That Logo Quiz/build/intermediates/pre-dexed/debug/android-support-v4_c1724341d8b80a2bf8d7f03ef81d5b235b9e02c6.jar" />
+    </item>
+    <item
+        jar="/home/emna/AndroidStudioProjects/Android Code/Scratch That Logo Quiz/libs/android-support-v4.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="4a6be13368bb64c5a0b0460632d228a1a915f58f">
+        <dex dex="/home/emna/AndroidStudioProjects/Android Code/Scratch That Logo Quiz/build/intermediates/pre-dexed/debug/android-support-v4_9ddc843787ff283a51e3a255479a1188788dda1f.jar" />
+    </item>
+    <item
+        jar="/home/emna/AndroidStudioProjects/Android Code/Scratch That Logo Quiz/build/intermediates/exploded-aar/Android Code/google-play-services_lib/unspecified/jars/libs/google-play-services.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="ebb46b9059bb1cf95bc3b347bbd91659cf3c7921">
+        <dex dex="/home/emna/AndroidStudioProjects/Android Code/Scratch That Logo Quiz/build/intermediates/pre-dexed/debug/google-play-services_22ba0081f8b709efd7ff970f103ba77e31584121.jar" />
+    </item>
+    <item
+        jar="/home/emna/AndroidStudioProjects/Android Code/Scratch That Logo Quiz/build/intermediates/exploded-aar/Android Code/google-play-services_lib/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="284b182f9dceda0b95a6181f7d1a863a788d5eb4">
+        <dex dex="/home/emna/AndroidStudioProjects/Android Code/Scratch That Logo Quiz/build/intermediates/pre-dexed/debug/Android Code-google-play-services_lib-unspecified_328761bcbd476da3059289ab633265897d117aff.jar" />
+    </item>
+
+</items>

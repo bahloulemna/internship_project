@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "/home/emna/AndroidStudioProjects/Android Code/Scratch That Logo Quiz/build/intermediates/res/merged/debug/values-sw720dp-land-v13/values-sw720dp-land-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 58,
+                    "endOffset": 109
+                },
+                "from": {
+                    "file": "/home/emna/AndroidStudioProjects/Android Code/Scratch That Logo Quiz/res/values-sw720dp-land/dimens.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 205,
+                        "endColumn": 58,
+                        "endOffset": 259
+                    }
+                }
+            }
+        ]
+    }
+]

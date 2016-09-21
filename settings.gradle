@@ -1,0 +1,3 @@
+include ':WScratchViewLibrary'
+include ':google-play-services_lib'
+include ':Scratch That Logo Quiz'
